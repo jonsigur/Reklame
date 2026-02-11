@@ -14,12 +14,18 @@
       "reklame_ferdig_salg": [
         {
           "type": "image",
-          "url": "https://pyntogpryd.no/wp-content/uploads/2023/10/E6mp-pifWn-U4mniGoxN3v_G_3Ic7pZvNzWXmtecV6lWI4Sv5-B7zbbaJGd5F8OZzS-lFe7Zg1vhHzoMApJebA.png"
-        }
+          "url": "https://pyntogpryd.no/wp-content/uploads/2023/10/E6mp-pifWn-U4mniGoxN3v_G_3Ic7pZvNzWXmtecV6lWI4Sv5-B7zbbaJGd5F8OZzS-lFe7Zg1vhHzoMApJebA.png",
+          "duration": 5
+        },
+          {
+          "type": "image",
+          "url": "https://gratisography.com/wp-content/uploads/2018/05/gratisography-304H-free-stock-photo-800x525.jpg",
+          "duration": 5
       ]
     }
 
     
+
 
 
 
