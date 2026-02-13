@@ -7,23 +7,24 @@
     },
     {
       "type": "image",
-      "url": "https://image.forskning.no/2128003.webp?imageId=2128003&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=964&height=700&format=jpg",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIZlipjVtNKYRv2N2f_t6O7o74DKCt20tDA&s",
       "duration": 7
     }
   ],
   "reklame_ferdig_salg": [
     {
       "type": "image",
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvR2rqNyyPZzm2F7TLYkBBLGK3HM1S7MJSwg&s",
+      "url": "https://image.kampanje.com/289491.webp?imageId=289491&width=960&height=662&format=jpg",
       "duration": 7
     },
     {
-      "type": "image",
-      "url": "https://images-bonnier.imgix.net/files/dif/production/2024/06/20175043/shutterstock_754833847-gKQx-a-VGJbdSvgMGxM_tQ_xx4286-scaled.jpg?auto=compress,format",
-      "duration": 7
+      "type": "video",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIZlipjVtNKYRv2N2f_t6O7o74DKCt20tDA&s",
+      "duration": 10
     }
   ]
 }
+
 
 
 
