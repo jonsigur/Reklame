@@ -2,19 +2,19 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://www.mytrendyphone.no/pages/ro/promo/valentine/2026/category/under-50-eur.webp",
+      "url": "https://github.com/jonsigur/Reklame/blob/main/DHCP.jpg",
       "duration": 7
     },
     {
       "type": "image",
-      "url": "https://img.freepik.com/gratis-bilder/solnedgang-pa-stranden-ai-generert_268835-11222.jpg",
+      "url": "https://github.com/jonsigur/Reklame/blob/main/DNS.jpg",
       "duration": 7
     }
   ],
   "reklame_ferdig_salg": [
     {
       "type": "image",
-      "url": "https://image.kampanje.com/289491.webp?imageId=289491&width=960&height=662&format=jpg",
+      "url": "https://github.com/jonsigur/Reklame/blob/main/HTTPS.jpg",
       "duration": 7
     },
     {
@@ -24,6 +24,7 @@
     }
   ]
 }
+
 
 
 
