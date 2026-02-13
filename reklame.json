@@ -14,9 +14,15 @@
   "reklame_ferdig_salg": [
     {
       "type": "image",
-      "url": "https://www.iphonehuset.no/files/simple-close-reflection-600.jpg"
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvR2rqNyyPZzm2F7TLYkBBLGK3HM1S7MJSwg&s"
+    },
+    {
+      "type": "image",
+      "url": "https://images-bonnier.imgix.net/files/dif/production/2024/06/20175043/shutterstock_754833847-gKQx-a-VGJbdSvgMGxM_tQ_xx4286-scaled.jpg?auto=compress,format",
+      "duration": 10
     }
   ]
 }
+
 
 
