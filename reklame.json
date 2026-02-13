@@ -2,7 +2,7 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://www.iphonehuset.no/files/simple-close-reflection-600.jpg",
+      "url": "https://github.com/jonsigur/Reklame/blob/main/HTTPS.jpg?raw=true",
       "duration": 7
     },
     {
@@ -24,6 +24,7 @@
     }
   ]
 }
+
 
 
 
