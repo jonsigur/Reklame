@@ -3,12 +3,6 @@
         {
           "type": "image",
           "url": "https://www.advania.se/hs-fs/hubfs/Com/advania-logo-background-1.jpg?width=1200&name=advania-logo-background-1.jpg",
-          "duration": 5
-        },
-        {
-          "type": "image",
-          "url": "https://image.forskning.no/2128003.webp?imageId=2128003&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=964&height=700&format=jpg",
-          "duration": 5
         }
       ],
       "reklame_ferdig_salg": [
@@ -26,6 +20,7 @@
     }
 
     
+
 
 
 
