@@ -2,7 +2,7 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://github.com/jonsigur/Reklame/blob/main/DHCP.jpg",
+      "url": "https://github.com/jonsigur/Reklame/blob/ff72bee1c7d3157af8648a9ade91cbb239389e78/HTTPS.jpg",
       "duration": 7
     },
     {
@@ -24,6 +24,7 @@
     }
   ]
 }
+
 
 
 
