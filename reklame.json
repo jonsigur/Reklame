@@ -3,27 +3,28 @@
     {
       "type": "image",
       "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/DHCP.jpg",
-      "duration": 7
+      "duration": 4
     },
     {
       "type": "image",
       "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/DNS.jpg",
-      "duration": 7
+      "duration": 4
     }
   ],
   "reklame_ferdig_salg": [
     {
       "type": "image",
       "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/HTTPS.jpg",
-      "duration": 7
+      "duration": 5
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advania2.png",
-      "duration": 10
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advania.jpg",
+      "duration": 4
     }
   ]
 }
+
 
 
 
