@@ -9,7 +9,7 @@
           "type": "image",
           "url": "https://www.iphonehuset.no/files/reflection-silhuette-600.jpg",
           "duration": 7
-      ],
+      },
       "reklame_ferdig_salg": [
         {
           "type": "image",
@@ -25,6 +25,7 @@
     }
 
     
+
 
 
 
