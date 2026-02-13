@@ -2,19 +2,20 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://api.susoft.com/images/totalproff/product/021034-/large/",
+      "url": "https://www.iphonehuset.no/files/simple-close-reflection-600.jpg",
       "duration": 15
     },
     {
       "type": "image",
-      "url": "https://api.susoft.com/images/totalproff/product/021034-/large/",
+      "url": "https://www.iphonehuset.no/files/simple-close-reflection-600.jpg",
       "duration": 10
     }
   ],
   "reklame_ferdig_salg": [
     {
       "type": "image",
-      "url": "https://api.susoft.com/images/totalproff/product/021034-/large/"
+      "url": "https://www.iphonehuset.no/files/simple-close-reflection-600.jpg"
     }
   ]
 }
+
