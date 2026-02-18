@@ -2,22 +2,23 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
+      "url": "https://www.advania.se/hs-fs/hubfs/Com/advania-logo-background-1.jpg?width=800&height=533&name=advania-logo-background-1.jpg",
       "duration": 15
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
+      "url": "https://www.advania.se/hs-fs/hubfs/Com/advania-logo-background-1.jpg?width=800&height=533&name=advania-logo-background-1.jpg",
       "duration": 10
     }
   ],
   "reklame_ferdig_salg": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png"
+      "url": "https://www.advania.se/hs-fs/hubfs/Com/advania-logo-background-1.jpg?width=800&height=533&name=advania-logo-background-1.jpg"
     }
   ]
 }
+
 
 
 
