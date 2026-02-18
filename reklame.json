@@ -2,22 +2,23 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://www.advania.se/hubfs/_Sweden/Advania-brand-elements/Pickit%20Resources/Logotypes/Prim%C3%A4r%20Logotyp%20Vit%20Digital%20RGB.jpg",
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
       "duration": 15
     },
     {
       "type": "image",
-      "url": "https://www.advania.se/hubfs/_Sweden/Advania-brand-elements/Pickit%20Resources/Logotypes/Prim%C3%A4r%20Logotyp%20Vit%20Digital%20RGB.jpg",
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
       "duration": 10
     }
   ],
   "reklame_ferdig_salg": [
     {
       "type": "image",
-      "url": "https://www.advania.se/hubfs/_Sweden/Advania-brand-elements/Pickit%20Resources/Logotypes/Prim%C3%A4r%20Logotyp%20Vit%20Digital%20RGB.jpg"
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png"
     }
   ]
 }
+
 
 
 
