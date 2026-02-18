@@ -2,7 +2,7 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/900x790.png",
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/960x790.png",
       "duration": 4
     },
     {
@@ -24,6 +24,7 @@
     }
   ]
 }
+
 
 
 
