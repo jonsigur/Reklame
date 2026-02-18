@@ -2,7 +2,7 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cethosia_cyane.jpg/960px-Cethosia_cyane.jpg"
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/900x800.png"
       "duration": 4
     },
     {
@@ -24,6 +24,7 @@
     }
   ]
 }
+
 
 
 
