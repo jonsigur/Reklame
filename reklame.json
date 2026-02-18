@@ -2,28 +2,19 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/960x790.png",
-      "duration": 4
-    },
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/Digital%20Primary%20Logo.jpg",
-      "duration": 4
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
     }
+   
   ],
   "reklame_ferdig_salg": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/1600x790.png",
-      "duration": 5
-    },
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advaniapay.jpg",
-      "duration": 4
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
+
     }
   ]
 }
+
 
 
 
