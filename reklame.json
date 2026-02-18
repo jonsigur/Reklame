@@ -3,21 +3,21 @@
     {
       "type": "image",
       "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
-      "duration": 5
+      "duration": 15
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
+      "duration": 10
     }
-   
   ],
   "reklame_ferdig_salg": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
-      "duration": 5
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png"
     }
   ]
 }
-
-
-
 
 
 
