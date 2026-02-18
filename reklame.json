@@ -14,7 +14,7 @@
   "reklame_ferdig_salg": [
     {
       "type": "image",
-      "url": "https://7783269.fs1.hubspotusercontent-eu1.net/hubfs/7783269/Advania-1.png",
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/1600x790.png",
       "duration": 5
     },
     {
@@ -24,6 +24,7 @@
     }
   ]
 }
+
 
 
 
