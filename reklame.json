@@ -5,19 +5,16 @@
       "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
       "duration": 15
     },
-    {
-      "type": "video",
-      "url": "https://d2j2uxe7jasn0r.cloudfront.net/watermarks/video/rTfBBPywhlin8fuh0/829z-v1-0022-00815389-qcdq-3birt__158a9426231559cfae1ae84358442b01__P360.mp4",
-      "duration": 10
-    }
+
   ],
   "reklame_ferdig_salg": [
     {
-      "type": "video",
-      "url": "https://d2j2uxe7jasn0r.cloudfront.net/watermarks/video/e4Gpia8/videoblocks-a-lot-of-bakery-products-exposed-for-the-people-on-a-fair-the-shot-is-movin_hzqowiqlf__57212476596111b15a47888e6466f6b8__P360.mp4"
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png"
     }
   ]
 }
+
 
 
 
