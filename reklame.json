@@ -4,7 +4,7 @@
       "type": "image",
       "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
       "duration": 15
-    },
+    }
 
   ],
   "reklame_ferdig_salg": [
@@ -14,6 +14,7 @@
     }
   ]
 }
+
 
 
 
