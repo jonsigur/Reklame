@@ -2,19 +2,13 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
-      "duration": 5
-    },
- {
-      "type": "image",
-      "url": "https://www.custom.biz/uploads/media/default/0001/09/trek-15-6-ant_1.png",
-      "duration": 5
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/Ruter_logo.svg.png"
     }
   ],
   "reklame_ferdig_salg": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png"
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/Ruter_logo.svg.png"
     }
   ]
 }
