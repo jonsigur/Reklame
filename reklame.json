@@ -2,8 +2,7 @@
   "reklame_standard": [
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png",
-      "duration": 5
+      "url": "https://raw.githubusercontent.com/jonsigur/Reklame/main/advanialogo.png"
     }
   ],
   "reklame_ferdig_salg": [
